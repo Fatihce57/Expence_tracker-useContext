@@ -1,10 +1,10 @@
 import React from 'react';
 
 function Header() {
-    return(
-    <>
-        Expense Tracker
-    </>
+    return (
+        <>
+            Expense Tracker
+        </>
     )
 }
 
